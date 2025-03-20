@@ -1,0 +1,9 @@
+{
+  "type": "episodic",
+  "content": "User asked: \"Analyze the following architectural changes in our codebase:\n1. Removal of HuggingFace service\n2. Im...\"",
+  "importance": 0.6,
+  "connections": [],
+  "timestamp": "2025-03-19T20:58:12.109Z",
+  "relevance": 0.6,
+  "id": "1c76329c-fee4-4a44-9a8b-eb1c59406340"
+}

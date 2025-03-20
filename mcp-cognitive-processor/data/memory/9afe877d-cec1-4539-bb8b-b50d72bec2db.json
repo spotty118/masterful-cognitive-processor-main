@@ -1,0 +1,9 @@
+{
+  "type": "episodic",
+  "content": "User asked: \"Provide a concise overview of the codebase in the current working directory '/Users/justincornelius/...\"",
+  "importance": 0.6,
+  "connections": [],
+  "timestamp": "2025-03-19T03:40:21.485Z",
+  "relevance": 0.6,
+  "id": "9afe877d-cec1-4539-bb8b-b50d72bec2db"
+}

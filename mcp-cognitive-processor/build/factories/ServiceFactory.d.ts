@@ -1,0 +1,36 @@
+import { ICacheService } from '../interfaces/ICacheService.js';
+import { IMemoryService } from '../interfaces/IMemoryService.js';
+import { IThinkingService } from '../interfaces/IThinkingService.js';
+import { IThinkingModelStrategy } from "../interfaces/IThinkingModelStrategy.js";
+import { TokenOptimizerImpl } from '../utils/TokenOptimizerImpl.js';
+import { MCPConfig, ThinkingModel } from '../models/types.js';
+import { IAIService } from '../interfaces/IAIService.js';
+import { ProcessingPipelineOrchestrator } from '../services/ProcessingPipelineOrchestrator.js';
+export declare class ServiceFactory {
+    private static cacheService;
+    private static memoryService;
+    private static thinkingService;
+    private static tokenOptimizer;
+    private static geminiService;
+    private static claudeService;
+    private static defaultService;
+    private static deepSeekService;
+    private static googleFlashService;
+    private static o1MiniService;
+    private static processingPipelineOrchestrator;
+    private constructor();
+    static getCacheService(): ICacheService;
+    static getMemoryService(): IMemoryService;
+    static getGeminiService(apiKey: string): IAIService;
+    static getClaudeService(): IAIService;
+    static getDefaultService(): IAIService;
+    static getThinkingService(config: MCPConfig): IThinkingService;
+    static createThinkingStrategy(model: ThinkingModel): IThinkingModelStrategy;
+    static getTokenOptimizer(): TokenOptimizerImpl;
+    static getDeepSeekService(): IAIService;
+    static getGoogleFlashService(): IAIService;
+    static getO1MiniService(): IAIService;
+    static getProcessingPipelineOrchestrator(): ProcessingPipelineOrchestrator;
+    static getDefaultConfig(): MCPConfig;
+    static createDefaultConfig(): MCPConfig;
+}

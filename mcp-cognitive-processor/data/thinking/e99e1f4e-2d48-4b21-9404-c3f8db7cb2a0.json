@@ -1,0 +1,9 @@
+{
+  "processId": "e99e1f4e-2d48-4b21-9404-c3f8db7cb2a0",
+  "problem": "Test service initialization after dependency injection updates",
+  "model": "error",
+  "steps": [],
+  "duration": 1,
+  "timestamp": "2025-03-19T21:09:26.490Z",
+  "error": "AI service is required"
+}

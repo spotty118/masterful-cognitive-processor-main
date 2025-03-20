@@ -1,0 +1,17 @@
+{
+  "name": "masterful-cognitive-processor",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "MCP server for Cline and Roo with advanced thinking models and memory management",
+  "scripts": {
+    "start": "cd mcp-cognitive-processor && npm start",
+    "dev": "cd mcp-cognitive-processor && npm run dev",
+    "build": "cd mcp-cognitive-processor && npm run build",
+    "lint": "cd mcp-cognitive-processor && npm run lint",
+    "test": "cd mcp-cognitive-processor && npm run test"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0"
+  }
+}

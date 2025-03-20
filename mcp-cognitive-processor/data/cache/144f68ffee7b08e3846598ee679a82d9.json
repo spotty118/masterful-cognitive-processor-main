@@ -1,0 +1,9 @@
+{
+  "response": "Mock response for: Analyze the codebase in the mcp-cognitive-processor directory to identify potential enhancements wit...",
+  "model": "gpt-3.5-turbo",
+  "tokenUsage": {
+    "prompt": 45,
+    "completion": 27,
+    "total": 72
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "processId": "a10609c0-4d56-48fb-bb37-0a20fd9d9a8a",
+  "problem": "Provide a high-level overview of the codebase in the current directory, focusing on the main components and their interactions. Exclude any information related to caching mechanisms.",
+  "model": "error",
+  "steps": [],
+  "duration": 147,
+  "timestamp": "2025-03-19T14:47:50.036Z",
+  "error": "OpenRouter API Authentication Error: 401 - {\"error\":{\"message\":\"No auth credentials found\",\"code\":401}}"
+}

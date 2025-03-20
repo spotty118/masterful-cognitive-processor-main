@@ -1,0 +1,25 @@
+{
+  "processId": "413ac9d6-da74-48d8-8c0c-8aa4b3b4d572",
+  "problem": "Review the codebase of mcp-cognitive-processor and suggest enhancements, focusing on architecture and key components, ignoring cache.",
+  "model": "minimal",
+  "steps": [
+    {
+      "id": "1",
+      "description": "Initial Analysis",
+      "reasoning": "",
+      "tokens": 0,
+      "status": "completed",
+      "timestamp": "2025-03-19T15:30:57.619Z"
+    },
+    {
+      "id": "2",
+      "description": "Deep Reasoning",
+      "reasoning": "",
+      "tokens": 0,
+      "status": "completed",
+      "timestamp": "2025-03-19T15:30:57.619Z"
+    }
+  ],
+  "duration": 2664,
+  "timestamp": "2025-03-19T15:30:57.619Z"
+}

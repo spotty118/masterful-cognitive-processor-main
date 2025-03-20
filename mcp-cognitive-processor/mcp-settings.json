@@ -1,0 +1,225 @@
+{
+  "core": {
+    "thinkingModels": {
+      "enhanced": {
+        "description": "Enhanced thinking model with confidence scoring and alternative paths",
+        "tokenMultiplier": 2,
+        "steps": [
+          "analyze",
+          "explore_alternatives",
+          "evaluate_approaches",
+          "plan",
+          "execute",
+          "validate",
+          "reflect"
+        ],
+        "features": [
+          "confidence_scoring",
+          "alternative_paths",
+          "detailed_metrics",
+          "uncertainty_tracking"
+        ],
+        "defaultPrompt": "Analyze this problem with detailed confidence tracking and alternative path exploration.",
+        "metrics": {
+          "enableConfidenceScoring": true,
+          "trackUncertainty": true,
+          "generateAlternatives": true,
+          "detailedFeedback": true
+        }
+      },
+      "minimal": {
+        "description": "Minimal thinking model for simple problems",
+        "tokenMultiplier": 0.5,
+        "steps": [
+          "problem",
+          "solution"
+        ],
+        "defaultPrompt": "Solve this problem with minimal steps."
+      },
+      "standard": {
+        "description": "Standard thinking model for general problems",
+        "tokenMultiplier": 1,
+        "steps": [
+          "problem",
+          "analysis",
+          "solution",
+          "verification"
+        ],
+        "defaultPrompt": "Solve this problem step by step."
+      },
+      "strategic": {
+        "description": "Strategic thinking model for complex problems",
+        "tokenMultiplier": 1.2,
+        "steps": [
+          "problem",
+          "strategy",
+          "execution",
+          "evaluation"
+        ],
+        "defaultPrompt": "Develop a strategy to solve this problem."
+      },
+      "breadth_first": {
+        "description": "Breadth-first thinking for exploring multiple options",
+        "tokenMultiplier": 1.5,
+        "steps": [
+          "problem",
+          "options",
+          "evaluation",
+          "selection",
+          "solution"
+        ],
+        "defaultPrompt": "Explore multiple approaches to solve this problem."
+      },
+      "depth_first": {
+        "description": "Depth-first thinking for deep analysis of a single approach",
+        "tokenMultiplier": 1.8,
+        "steps": [
+          "problem",
+          "approach",
+          "detailed_analysis",
+          "implementation",
+          "verification"
+        ],
+        "defaultPrompt": "Analyze this problem in depth and implement a solution."
+      },
+      "chain_of_thought": {
+        "description": "Chain of thought reasoning for step-by-step explanations",
+        "tokenMultiplier": 1.7,
+        "steps": [
+          "initial_thought",
+          "reasoning_step_1",
+          "reasoning_step_2",
+          "reasoning_step_3",
+          "conclusion"
+        ],
+        "defaultPrompt": "Explain your reasoning step by step to arrive at the solution."
+      },
+      "tree_of_thoughts": {
+        "description": "Tree of thoughts approach for exploring multiple reasoning paths",
+        "tokenMultiplier": 2,
+        "steps": [
+          "root_thoughts",
+          "branch_exploration",
+          "branch_evaluation",
+          "path_selection",
+          "final_solution"
+        ],
+        "defaultPrompt": "Explore multiple reasoning paths and select the most promising solution."
+      },
+      "expanded_step_by_step": {
+        "description": "Expanded step-by-step thinking for complex problems",
+        "tokenMultiplier": 2.5,
+        "steps": [
+          "problem",
+          "clarification",
+          "decomposition",
+          "approach",
+          "detailed_steps",
+          "implementation",
+          "verification",
+          "optimization",
+          "reflection"
+        ],
+        "defaultPrompt": "Solve this problem with a detailed step-by-step approach."
+      }
+    },
+    "strategies": {
+      "dynamicSelection": true,
+      "preferredStrategies": {
+        "complex_decisions": "enhanced",
+        "multiple_options": "tree_of_thoughts",
+        "step_by_step": "chain_of_thought",
+        "design_problems": "strategic",
+        "deep_analysis": "depth_first",
+        "option_exploration": "breadth_first",
+        "general_problems": "standard",
+        "simple_problems": "minimal"
+      }
+    },
+    "intelligence": {
+      "useAdvancedSelector": true,
+      "reasoningSystems": {
+        "deductive": {
+          "description": "Deductive reasoning from general principles to specific conclusions",
+          "steps": [
+            "identify_principles",
+            "apply_logic",
+            "draw_conclusions"
+          ],
+          "defaultPrompt": "Use deductive reasoning to solve this problem."
+        },
+        "inductive": {
+          "description": "Inductive reasoning from specific observations to general principles",
+          "steps": [
+            "gather_observations",
+            "identify_patterns",
+            "form_hypothesis"
+          ],
+          "defaultPrompt": "Use inductive reasoning to solve this problem."
+        },
+        "abductive": {
+          "description": "Abductive reasoning to the most likely explanation",
+          "steps": [
+            "observe_facts",
+            "generate_hypotheses",
+            "select_best_explanation"
+          ],
+          "defaultPrompt": "Use abductive reasoning to find the most likely explanation."
+        },
+        "analogical": {
+          "description": "Analogical reasoning by comparing similar situations",
+          "steps": [
+            "identify_source",
+            "map_relationships",
+            "transfer_knowledge"
+          ],
+          "defaultPrompt": "Use analogical reasoning to solve this problem."
+        },
+        "causal": {
+          "description": "Causal reasoning to understand cause and effect",
+          "steps": [
+            "identify_events",
+            "analyze_relationships",
+            "determine_causality"
+          ],
+          "defaultPrompt": "Use causal reasoning to understand this problem."
+        }
+      }
+    }
+  },
+  "memory": {
+    "maxItems": 1000,
+    "importanceThreshold": 0.3,
+    "recencyBoost": 1.5,
+    "semanticSearchEnabled": true
+  },
+  "cache": {
+    "expirationTimes": {
+      "reasoning_cache": 86400000,
+      "vector_cache": 604800000,
+      "token_cache": 43200000
+    }
+  },
+  "tokenOptimization": {
+    "enabled": true,
+    "complexityThreshold": 0.7,
+    "lowNoveltyThreshold": 0.3,
+    "highNoveltyThreshold": 0.7,
+    "enablePatternReuse": true,
+    "enableSolutionAdaptation": true,
+    "metrics": {
+      "trackConfidence": true,
+      "analyzeComplexity": true,
+      "trackEfficiency": true,
+      "confidenceThreshold": 0.8,
+      "efficiencyTarget": 0.7
+    },
+    "alternatives": {
+      "maxPaths": 3,
+      "minConfidence": 0.5,
+      "diffThreshold": 0.2
+    }
+  },
+  "name": "Masterful Cognitive Processor",
+  "version": "1.0.0"
+}

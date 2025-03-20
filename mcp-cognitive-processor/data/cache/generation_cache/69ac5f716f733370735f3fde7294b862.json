@@ -1,0 +1,4 @@
+{
+  "response": "{\"response\":\"Mock response for: Analyze the codebase in the mcp-cognitive-processor directory to identify potential enhancements wit...\",\"model\":\"gpt-3.5-turbo\",\"token_usage\":{\"prompt\":45,\"completion\":27,\"total\":72},\"optimization\":{\"selected_model\":\"gpt-3.5-turbo\",\"estimated_tokens\":45,\"optimization_applied\":false,\"similar_problems\":[],\"domain\":\"general\",\"concepts\":[]},\"memory_items_used\":0,\"cached\":false}",
+  "timestamp": "2025-03-18T17:01:15.480Z"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "episodic",
+  "content": "User asked: \"Perform a fresh analysis of the codebase in the mcp-cognitive-processor directory, ignoring any prev...\"",
+  "importance": 0.6,
+  "connections": [],
+  "timestamp": "2025-03-20T19:49:39.967Z",
+  "relevance": 0.6,
+  "id": "35e4034a-0a6d-4698-abe3-7fc6040de463"
+}

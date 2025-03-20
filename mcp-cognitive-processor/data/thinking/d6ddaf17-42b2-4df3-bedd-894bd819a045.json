@@ -1,0 +1,8 @@
+{
+  "processId": "d6ddaf17-42b2-4df3-bedd-894bd819a045",
+  "problem": "Perform a detailed analysis of the `ThinkingEngine` class in `/Users/justincornelius/Downloads/masterful-cognitive-processor-main/mcp-cognitive-processor/src/core/ThinkingEngine.ts`. Focus on its responsibilities, key methods, interactions with other components, and potential areas for improvement.",
+  "model": "gemini-flash",
+  "steps": [],
+  "duration": 1004,
+  "timestamp": "2025-03-20T18:34:24.823Z"
+}

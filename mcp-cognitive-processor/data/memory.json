@@ -1,0 +1,1154 @@
+[
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the codebase in the mcp-cognitive-processor directory to identify potential enhancements wit...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T17:01:15.481Z",
+    "relevance": 0.6,
+    "id": "7227f4b5-c406-4b77-82a9-7bf1a39b8dd8"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the codebase for potential enhancements without breaking existing functionality. Consider ar...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T17:20:20.626Z",
+    "relevance": 0.6,
+    "id": "8e06de85-ee29-4ac8-a85a-d6c9345ba626"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the codebase for potential enhancements without breaking existing functionality. Consider ar...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T17:27:06.152Z",
+    "relevance": 0.6,
+    "id": "f7c9358e-23e6-4200-b1dc-fc4d270b2bcc"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the codebase, starting with the files related to token optimization (intelligenceService.ts,...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T19:34:00.654Z",
+    "relevance": 0.6,
+    "id": "099f77f6-18c8-4498-a59a-d459b4c7109d"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the codebase for potential enhancements, focusing on code structure, efficiency, and maintai...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T19:45:18.718Z",
+    "relevance": 0.6,
+    "id": "903604bc-b4ac-4099-bf2b-c598e1907810"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Compare microservices architecture with monolithic architecture, discussing the advantages and disad...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T19:57:42.950Z",
+    "relevance": 0.6,
+    "id": "1fa0821f-7957-4509-acbb-b7c4794272ed"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide an overview of potential enhancements for the mcp-cognitive-processor codebase.\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T20:38:54.690Z",
+    "relevance": 0.6,
+    "id": "82c47c22-1bb5-471a-9f05-8ce0051a232d"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide a thorough analysis of the ThinkingEngine.ts file in the mcp-cognitive-processor codebase fo...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T20:39:28.358Z",
+    "relevance": 0.6,
+    "id": "ea488183-8c15-4c30-89bf-85bdea8f1746"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide a thorough analysis of the ThinkingEngine.ts file in the mcp-cognitive-processor codebase fo...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T20:39:47.135Z",
+    "relevance": 0.6,
+    "id": "d1145b01-6962-4475-8447-313425447e8f"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Thoroughly analyze the ThinkingEngine.ts file for potential enhancements, focusing on code structure...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T20:40:44.053Z",
+    "relevance": 0.6,
+    "id": "b15a9b3c-4502-4d5a-a5f6-aa41e9ead992"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Perform a detailed code analysis of ThinkingEngine.ts for enhancements, focusing on:\n\n**1. Code Stru...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T20:41:39.110Z",
+    "relevance": 0.6,
+    "id": "34d1755f-6d77-43c0-a749-fbaca1273b62"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Conduct an in-depth code review of ThinkingEngine.ts for potential improvements, specifically addres...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T20:41:59.880Z",
+    "relevance": 0.6,
+    "id": "192f3ed7-d119-4118-96fb-468c8bf2030c"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Conduct an in-depth code review of ThinkingEngine.ts for potential improvements, specifically addres...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T20:42:22.161Z",
+    "relevance": 0.6,
+    "id": "c1ea456d-a212-408d-8e6c-f49715dec207"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the mcp-cognitive-processor codebase in /Users/justincornelius/Downloads/masterful-cognitive...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T20:49:25.166Z",
+    "relevance": 0.6,
+    "id": "bb6f12e7-856c-4cce-948e-9cb0c8df0143"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Perform a thorough and deep analysis of the mcp-cognitive-processor codebase in /Users/justincorneli...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T20:49:51.456Z",
+    "relevance": 0.6,
+    "id": "c955c1a8-99eb-4e18-9649-836b556a813a"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide a detailed overview of potential enhancements for the codebase in `/Users/justincornelius/Do...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T20:58:36.537Z",
+    "relevance": 0.6,
+    "id": "4cf2bba0-bc5a-406d-a650-954ce5de6cde"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the Masterful Cognitive Processor codebase for potential enhancements. The codebase includes...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:01:32.944Z",
+    "relevance": 0.6,
+    "id": "6261ecfa-f2e2-430c-9bad-99bc2ff82acd"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Test prompt\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:19:26.759Z",
+    "relevance": 0.6,
+    "id": "a56117e8-3b2e-46a5-a6fa-bad8de30b195"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the `selectReasoningSystem` method in the `ThinkingEngine` class and suggest enhancements fo...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:31:08.429Z",
+    "relevance": 0.6,
+    "id": "f8b2603f-decf-4e24-ba7f-5945a708c6ee"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the `selectReasoningSystem` method in the `ThinkingEngine` class and suggest specific code i...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:31:16.075Z",
+    "relevance": 0.6,
+    "id": "ec1fc222-efcf-4e42-867b-1d62b6ab85c8"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate a code diff in unified format that adds a new private method `dynamicallySelectReasoningSys...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:31:21.340Z",
+    "relevance": 0.6,
+    "id": "85fdc47e-e4b7-4d5c-a9f5-869bd6f4a290"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate the TypeScript code for a new private method `dynamicallySelectReasoningSystem` to be added...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:31:42.704Z",
+    "relevance": 0.6,
+    "id": "f0c8f671-d746-4de9-bf97-f4bee3ea7f99"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Please provide ONLY the TypeScript code for a new private method `dynamicallySelectReasoningSystem` ...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:32:11.238Z",
+    "relevance": 0.6,
+    "id": "ee1c4194-bfba-49d9-b5f1-d003703786e5"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the code in `mcp-cognitive-processor/src/core/ThinkingEngine.ts` and suggest enhancements fo...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:39:40.435Z",
+    "relevance": 0.6,
+    "id": "ef12edde-0f97-4a5e-838d-2bc5dd4abaae"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Based on the analysis of `ThinkingEngine.ts`, suggest specific code enhancements focusing on layered...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:40:08.122Z",
+    "relevance": 0.6,
+    "id": "05cd552a-e406-40a7-94f8-51158ac3f142"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Based on the previous analysis of `ThinkingEngine.ts`, provide specific code examples and suggestion...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:40:13.576Z",
+    "relevance": 0.6,
+    "id": "a6a4d529-129b-4386-aefd-5306e3184eb1"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide a detailed code diff in unified format that refactors the `ThinkingEngine.ts` class to imple...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:40:18.325Z",
+    "relevance": 0.6,
+    "id": "9aa9ede6-50c5-474c-a9b4-2da8bb571eee"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate a detailed code diff in unified format that refactors the `ThinkingEngine.ts` class to impl...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:40:36.108Z",
+    "relevance": 0.6,
+    "id": "76ead28a-708a-4447-97bf-9d21d1a36276"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate a detailed and complete code diff in unified format to refactor the `ThinkingEngine.ts` cla...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:40:47.843Z",
+    "relevance": 0.6,
+    "id": "f4575a76-9bdf-40a3-833b-ce1877dabbd0"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:40:52.305Z",
+    "relevance": 0.6,
+    "id": "c9bde1bb-adfa-4a70-9a97-c8c431ac3adc"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:41:33.183Z",
+    "relevance": 0.6,
+    "id": "a204ef96-8f0b-4e59-8bfd-d6a63e739fed"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:41:40.167Z",
+    "relevance": 0.6,
+    "id": "dc786c88-0fb5-403d-8353-23e48dd0f5ac"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:41:47.242Z",
+    "relevance": 0.6,
+    "id": "313f3a3a-0e16-47eb-8f94-97983440816a"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:41:52.594Z",
+    "relevance": 0.6,
+    "id": "80dfade4-13bf-4138-a096-7f3c3d8b49b8"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:42:17.917Z",
+    "relevance": 0.6,
+    "id": "ebe6a5b2-0f8a-495b-a1c4-7b574f32c434"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:43:15.039Z",
+    "relevance": 0.6,
+    "id": "8039249c-da39-43fd-824c-1c74b3dc070a"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:44:02.328Z",
+    "relevance": 0.6,
+    "id": "7d6cb5a7-4da9-4381-8618-6836842e9ccf"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:44:18.952Z",
+    "relevance": 0.6,
+    "id": "1d889223-1674-4079-a871-eb35f26c0b67"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:44:30.119Z",
+    "relevance": 0.6,
+    "id": "3675b826-ba51-44f4-b942-f4658db18d3d"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:44:34.811Z",
+    "relevance": 0.6,
+    "id": "c46a4f2d-0377-41b0-b5e6-4937c98ff408"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:44:40.289Z",
+    "relevance": 0.6,
+    "id": "3b9adcc3-544e-4320-a429-76b99806fc11"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:44:48.676Z",
+    "relevance": 0.6,
+    "id": "a15085ec-28f2-4cd0-9ab8-5a563b5216ff"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:44:59.459Z",
+    "relevance": 0.6,
+    "id": "ffa7780c-fdeb-4a0f-b2cc-60b46fc6f07c"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:45:05.754Z",
+    "relevance": 0.6,
+    "id": "bf5d5cd8-79d4-4545-a058-a8833915da2a"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:45:30.028Z",
+    "relevance": 0.6,
+    "id": "f9dac7f6-8f94-4e29-af5a-8e22bdd2c3a3"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:45:43.252Z",
+    "relevance": 0.6,
+    "id": "3ac1163b-0883-4abf-8db4-21c10753c75d"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:45:49.438Z",
+    "relevance": 0.6,
+    "id": "dceaee26-05bb-4c01-b992-3e0b3ffcfe3f"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format to refactor the `ThinkingEng...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:46:19.494Z",
+    "relevance": 0.6,
+    "id": "f07d3559-b2b4-41c6-9f0d-dfba4eb2efd9"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate an extremely detailed and complete code diff in unified format in JSON format to refactor t...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:46:33.851Z",
+    "relevance": 0.6,
+    "id": "5eb57e76-9807-49d0-a290-150f7750ec9f"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate the complete refactored code of the `ThinkingEngine.ts` class in JSON format for production...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:46:39.999Z",
+    "relevance": 0.6,
+    "id": "eeab3ba3-cfe1-494a-8da7-5aca0769fdef"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate the refactored code in JSON format for the `selectReasoningSystem` method in `ThinkingEngin...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:46:45.598Z",
+    "relevance": 0.6,
+    "id": "c09f8ab3-8a3f-4671-b0dc-b727cdc013b5"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the following code for potential enhancements in terms of performance, readability, and main...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:55:16.079Z",
+    "relevance": 0.6,
+    "id": "d87070bc-2cb3-42e4-bc0f-8e1dfd40d879"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Based on the previous analysis of the ThinkingEngine.ts code, provide specific and actionable sugges...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:55:20.801Z",
+    "relevance": 0.6,
+    "id": "88f2ba29-c21e-46ce-a047-501ef9b44481"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Detail the actionable suggestions for enhancements to improve performance, readability, and maintain...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T21:55:29.196Z",
+    "relevance": 0.6,
+    "id": "9139c6cc-9a6b-43dd-906a-c4a7a99993ac"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the codebase in the `/Users/justincornelius/Downloads/masterful-cognitive-processor-main/mcp...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T22:02:35.211Z",
+    "relevance": 0.6,
+    "id": "feeea738-34bf-4085-b96d-3d7402cd4352"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the codebase in the current working directory (/Users/justincornelius/Downloads/masterful-co...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T22:03:39.038Z",
+    "relevance": 0.6,
+    "id": "b77481ac-25ff-4865-aeee-27ecb878942e"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the following TypeScript code for the ThinkingEngine class and suggest specific enhancements...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T22:03:53.840Z",
+    "relevance": 0.6,
+    "id": "36d34f4f-e0a4-4552-98eb-ac6b55a01428"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the following TypeScript code for the ThinkingEngine class and suggest specific enhancements...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T22:03:58.556Z",
+    "relevance": 0.6,
+    "id": "279253ef-d30d-42c8-a2af-36a99672fa12"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Review the codebase in the `/Users/justincornelius/Downloads/masterful-cognitive-processor-main/mcp-...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T22:39:14.860Z",
+    "relevance": 0.6,
+    "id": "e71daa2f-99de-4254-b859-20d2ccd6ee76"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Review the codebase in the `/Users/justincornelius/Downloads/masterful-cognitive-processor-main/mcp-...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T22:39:39.909Z",
+    "relevance": 0.6,
+    "id": "488a81bc-56d7-4ad6-a78f-29c8f1afe35a"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Conduct a thorough code review of the `/Users/justincornelius/Downloads/masterful-cognitive-processo...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T22:40:41.789Z",
+    "relevance": 0.6,
+    "id": "be014ff1-abb0-4eee-88e9-f33707bd2d05"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the `ThinkingEngine` class in `/Users/justincornelius/Downloads/masterful-cognitive-processo...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T22:45:17.398Z",
+    "relevance": 0.6,
+    "id": "523f2a86-f641-4bae-92cf-d43d0f66c021"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Solve the following problem: What is the best way to design a scalable microservices architecture?\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T23:13:52.244Z",
+    "relevance": 0.6,
+    "id": "eb5548a7-6f13-4981-9641-117c9e99c906"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"What are the key components of a cognitive architecture?\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T23:36:47.879Z",
+    "relevance": 0.6,
+    "id": "0a9a170f-5081-4b90-ae16-c0c777ea3cab"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Solve the following problem: What is the best way to design a scalable microservices architecture?\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-18T23:37:45.250Z",
+    "relevance": 0.6,
+    "id": "3141740c-57cd-4f69-9f43-6bb80f3eee8e"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the codebase of the mcp-cognitive-processor located in /Users/justincornelius/Downloads/mast...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-19T00:41:36.663Z",
+    "relevance": 0.6,
+    "id": "b459beee-b4d7-4d2d-9adc-639309a62485"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the following files for potential enhancements in terms of performance, readability, and mai...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-19T02:18:49.690Z",
+    "relevance": 0.6,
+    "id": "1cd172d6-a2f2-4fa0-be9b-28545757207f"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the OpenRouter SDK codebase in /Users/justincornelius/Downloads/OpenRouter-sdk for potential...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-19T03:01:32.450Z",
+    "relevance": 0.6,
+    "id": "f37d8fe4-562e-49b1-a107-b562b7c1722f"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the code in `src/oneapi.ts` for potential enhancements in terms of performance, readability,...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-19T03:14:11.845Z",
+    "relevance": 0.6,
+    "id": "cf4d1002-5561-4f17-8bc0-f6dc746361d5"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide specific code enhancement suggestions for `src/oneapi.ts` focusing on performance, readabili...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-19T03:14:33.650Z",
+    "relevance": 0.6,
+    "id": "97629a7d-7e2e-4d43-88b9-e17d56bc8863"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the `createChatCompletion` method in `src/oneapi.ts` and suggest specific code enhancements ...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-19T03:14:40.001Z",
+    "relevance": 0.6,
+    "id": "e577bb88-2362-49b6-ac88-c90873c17551"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Identify potential performance bottlenecks and readability issues in the `createChatCompletion` meth...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-19T03:14:47.617Z",
+    "relevance": 0.6,
+    "id": "f3ef45c0-766d-4eff-964e-90044f8ced3f"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide a concise overview of the codebase in the current working directory '/Users/justincornelius/...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-19T03:40:21.485Z",
+    "relevance": 0.6,
+    "id": "9afe877d-cec1-4539-bb8b-b50d72bec2db"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Review the codebase of mcp-cognitive-processor in the current working directory and provide a concis...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-19T15:31:25.361Z",
+    "relevance": 0.6,
+    "id": "e32fd91e-7946-4517-86f4-d63a075a2585"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Based on the previous analysis of the mcp-cognitive-processor codebase, provide a concise overview o...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-19T15:31:35.608Z",
+    "relevance": 0.6,
+    "id": "19a8675c-cb01-4020-b518-7cb508326883"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the core components and architecture of the mcp-cognitive-processor codebase, focusing on th...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-19T15:55:52.208Z",
+    "relevance": 0.6,
+    "id": "e458b863-b5b5-462d-9175-f8c17173b8aa"
+  },
+  {
+    "type": "working",
+    "content": "Analyzing MCP codebase architecture focusing on core components: ThinkingEngine, ServiceFactory, AI services, and thinking strategies while ignoring cache components.",
+    "importance": 0.8,
+    "connections": [],
+    "timestamp": "2025-03-19T15:56:31.821Z",
+    "relevance": 0.5,
+    "id": "62467c01-a3e0-4d8e-b984-6e3f0996f2c9"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Based on the stored memory context, analyze the mcp-cognitive-processor codebase focusing on core co...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-19T15:56:36.555Z",
+    "relevance": 0.6,
+    "id": "60020480-16a4-4109-87e0-d0a9508f1831"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Generate a detailed technical overview of the enhanced MCP architecture, focusing on: 1. Core archit...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-19T16:39:38.511Z",
+    "relevance": 0.6,
+    "id": "bf184145-2a10-4fc4-bf52-4f3bcc6293f4"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the following architectural changes in our codebase:\n1. Removal of HuggingFace service\n2. Im...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-19T20:58:12.109Z",
+    "relevance": 0.6,
+    "id": "1c76329c-fee4-4a44-9a8b-eb1c59406340"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the following TypeScript code and suggest enhancements for code clarity, efficiency, error h...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T01:47:29.663Z",
+    "relevance": 0.6,
+    "id": "3b0a73af-f8ad-4cd2-b734-bbe354718878"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the following TypeScript code and suggest specific code-level enhancements, focusing on:\n\n1....\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T01:47:50.256Z",
+    "relevance": 0.6,
+    "id": "05614131-548b-4b9e-8333-e70f1b08cadc"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Based on the structure of the Masterful Cognitive Processor codebase, including services for various...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T01:56:10.153Z",
+    "relevance": 0.6,
+    "id": "59ef2f52-4b9f-49c3-82ac-3da811278425"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide an overview of potential enhancements for the mcp-cognitive-processor codebase. Analyze the ...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T02:25:15.975Z",
+    "relevance": 0.6,
+    "id": "1a010c63-5607-41c6-b324-3f9c9a6b37a7"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide an overview of potential enhancements for the mcp-cognitive-processor codebase, ignoring cac...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T02:25:45.485Z",
+    "relevance": 0.6,
+    "id": "af441383-45d5-44bb-9c1e-efdd0b4ff9b0"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide an overview of potential enhancements for the mcp-cognitive-processor codebase, explicitly e...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T02:25:49.751Z",
+    "relevance": 0.6,
+    "id": "649aa378-371e-4be5-8b4b-ff4d7616ec1f"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide an overview of potential enhancements for the mcp-cognitive-processor codebase, with a stric...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T02:25:58.706Z",
+    "relevance": 0.6,
+    "id": "54edf2e5-414b-4390-80ff-187443c01ee6"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide a detailed overview of potential enhancements for the mcp-cognitive-processor codebase. This...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T02:26:04.741Z",
+    "relevance": 0.6,
+    "id": "eb5d9564-aec6-4617-a458-88b99b08264e"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide a comprehensive overview of potential enhancements for the mcp-cognitive-processor codebase....\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T02:26:09.728Z",
+    "relevance": 0.6,
+    "id": "96458ed0-687b-4efb-b413-af0aff1672b1"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Conduct a completely new and independent analysis of the mcp-cognitive-processor codebase, explicitl...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T02:26:14.817Z",
+    "relevance": 0.6,
+    "id": "aad2f4f1-e72a-4250-a468-13f0161c9c78"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Perform a thorough and independent analysis of the mcp-cognitive-processor codebase, ensuring that t...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T02:26:20.182Z",
+    "relevance": 0.6,
+    "id": "2bce1a6d-2569-48e1-b066-24a8a3950a69"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide a comprehensive and actionable overview of potential enhancements for the mcp-cognitive-proc...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T02:26:28.269Z",
+    "relevance": 0.6,
+    "id": "0c28ffc5-6227-48f6-90dd-87b04459dbe5"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Conduct an entirely new and independent analysis of the mcp-cognitive-processor codebase, ensuring a...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T02:26:40.401Z",
+    "relevance": 0.6,
+    "id": "3c135ce7-188a-482d-bab7-c9114dc6aa90"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Execute a completely independent and novel analysis of the mcp-cognitive-processor codebase, ensurin...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T02:26:47.187Z",
+    "relevance": 0.6,
+    "id": "eba44bf5-d127-4dc0-b964-4f65fbd6ac9a"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Undertake a completely novel and pristine analysis of the mcp-cognitive-processor codebase, ensuring...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T02:26:53.265Z",
+    "relevance": 0.6,
+    "id": "c2e831b0-40c9-43f8-8d5c-365563ffd439"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Based on the file structure of the mcp-cognitive-processor codebase, and focusing on modules related...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T02:27:26.499Z",
+    "relevance": 0.6,
+    "id": "e2a63ef5-67ca-47a8-822e-79e2fe9ebd72"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Based on the structure of the mcp-cognitive-processor codebase, particularly the services CachingSer...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T17:41:02.206Z",
+    "relevance": 0.6,
+    "id": "9a3ca069-a7f0-400e-a483-dfee3d013998"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the CachingService in mcp-cognitive-processor for optimization. Identify potential bottlenec...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T17:41:05.739Z",
+    "relevance": 0.6,
+    "id": "263b044d-ab45-478c-bbe5-ec4ffd3ce5ef"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Detailed optimization analysis of the CachingService in mcp-cognitive-processor. Focus on:\n\n1. Data ...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T17:41:10.880Z",
+    "relevance": 0.6,
+    "id": "e2b4dd6c-bdb2-4930-9149-5ac96e599716"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide specific, actionable optimization recommendations for the CachingService in mcp-cognitive-pr...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T17:41:28.839Z",
+    "relevance": 0.6,
+    "id": "65220491-943b-493b-911a-19a7cfd4348f"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Deliver highly specific and actionable optimization recommendations for the CachingService within th...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T17:41:47.556Z",
+    "relevance": 0.6,
+    "id": "a92b56fc-46c6-4a4c-92d7-8fcb80617613"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Based on the structure of the mcp-cognitive-processor codebase, especially the ProcessingService, su...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T17:41:52.750Z",
+    "relevance": 0.6,
+    "id": "0573d1b9-1028-4890-9cbf-1b99e5101f20"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Detailed optimization analysis of the ProcessingService in mcp-cognitive-processor. Focus on:\n\n1. Ba...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T17:42:24.930Z",
+    "relevance": 0.6,
+    "id": "995c258d-f209-4559-9402-fd5b7ce5ad34"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide highly specific and actionable optimization recommendations for the ProcessingService within...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T17:42:44.168Z",
+    "relevance": 0.6,
+    "id": "2048de8f-b358-4a31-a298-098db7feea14"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide a conclusive summary of the potential enhancements for the mcp-cognitive-processor codebase,...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T17:42:49.951Z",
+    "relevance": 0.6,
+    "id": "5ae93cc4-29f5-4b30-a604-d216ad2c5eab"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Based on our comprehensive code review of the mcp-cognitive-processor, provide a concise summary of ...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T17:42:59.637Z",
+    "relevance": 0.6,
+    "id": "b724fff0-ee9a-4dee-88af-a55f57a547e1"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Based on the comprehensive code review of the mcp-cognitive-processor, provide a concise summary of ...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T17:43:59.974Z",
+    "relevance": 0.6,
+    "id": "d46f6196-ec73-41b3-a17b-a01e3996bd91"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Based on the comprehensive code review, here is a concise summary of actionable enhancements for the...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T17:45:50.232Z",
+    "relevance": 0.6,
+    "id": "8b648bdf-5b4c-4c61-82a5-de20a0a3cbdb"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the codebase structure in /Users/justincornelius/Downloads/masterful-cognitive-processor-mai...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T18:13:48.533Z",
+    "relevance": 0.6,
+    "id": "42903739-fbd4-453a-9982-d442dc1dc4c5"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Based on the codebase architecture and components in /Users/justincornelius/Downloads/masterful-cogn...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T18:14:02.764Z",
+    "relevance": 0.6,
+    "id": "1f9c7fd5-914f-4fe4-a943-386aebab40a3"
+  },
+  {
+    "type": "semantic",
+    "content": "MCP Cognitive Processor Enhancement Recommendations:\n\n1. Performance Optimizations:\n- Implement lazy loading for services and strategies\n- Add request batching in ProcessingPipelineOrchestrator\n- Optimize token usage with smarter context pruning\n- Implement caching for frequently used model responses\n\n2. Architecture Improvements:\n- Implement plugin architecture for service adapters\n- Add service discovery mechanism\n- Implement circuit breakers for external services\n- Add service health monitoring and auto-recovery\n\n3. Maintainability Enhancements:\n- Improve error handling and logging\n- Add comprehensive metrics collection\n- Implement feature flags for gradual rollouts\n- Add automated testing for core components\n\n4. Error Handling & Monitoring:\n- Add distributed tracing\n- Implement better error recovery strategies\n- Add performance monitoring dashboards\n- Implement automated alerting system",
+    "importance": 0.8,
+    "connections": [],
+    "timestamp": "2025-03-20T18:14:32.704Z",
+    "relevance": 0.5,
+    "id": "5dab15a8-fb0c-4813-941d-3c1c3cabf9de"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the core components of the MCP Cognitive Processor in the src directory, focusing on:\n1. Mai...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T18:23:55.425Z",
+    "relevance": 0.6,
+    "id": "ab311afd-04e5-45e0-be1a-181bb903c246"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze potential performance optimizations for the MCP Cognitive Processor, focusing on:\n1. Caching...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T18:24:11.854Z",
+    "relevance": 0.6,
+    "id": "e18370a4-c419-4709-88e2-8fa192c316ed"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide a high-level overview of the core components of the mcp-cognitive-processor codebase in the ...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T18:34:17.536Z",
+    "relevance": 0.6,
+    "id": "6dd6d1f2-dab8-4c14-b031-7f1bf1901500"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Based on your understanding of the ThinkingEngine class, provide specific and actionable enhancement...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T18:38:18.126Z",
+    "relevance": 0.6,
+    "id": "8fb57b77-62b4-4b50-97f5-afa9678bbb9b"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide a high-level overview of the mcp-cognitive-processor codebase in the src directory. Identify...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T18:46:37.768Z",
+    "relevance": 0.6,
+    "id": "56874bab-cc69-44d0-8dc6-57003df583c0"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the ThinkingEngine class in the mcp-cognitive-processor codebase. Identify potential enhance...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T18:46:54.697Z",
+    "relevance": 0.6,
+    "id": "0b84261d-0892-4e8f-9064-086e1e3d18a6"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Based on the previous analysis, provide specific and actionable enhancement recommendations for the ...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T18:46:59.025Z",
+    "relevance": 0.6,
+    "id": "0b03951d-bde2-4f69-817d-b6b667297dc9"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide a concise overview of the core components of the mcp-cognitive-processor codebase in the src...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T18:52:20.183Z",
+    "relevance": 0.6,
+    "id": "e6d7cd81-d19e-4726-96d1-b2e666e971c1"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the ThinkingEngine class in detail for potential enhancements, focusing on these specific ar...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T18:52:41.130Z",
+    "relevance": 0.6,
+    "id": "7fb13fc3-8b64-4bb8-a934-6ce30c908932"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide a concise overview of the core components of the mcp-cognitive-processor codebase in the src...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T18:56:32.749Z",
+    "relevance": 0.6,
+    "id": "713c9ad3-aeba-44a7-ab07-899b019dc6ba"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the ThinkingEngine class in detail for potential enhancements, focusing on performance, main...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T18:56:50.537Z",
+    "relevance": 0.6,
+    "id": "cf1f9009-0932-4c86-ac63-07e7fb5276ff"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Analyze the 4 sequential steps in the ProcessingPipelineOrchestrator:\n1. Initial Preprocessing (Goog...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T19:04:40.810Z",
+    "relevance": 0.6,
+    "id": "199c31a9-b6b1-4721-a7cc-409e979ae4dc"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide a detailed technical analysis of the 4-step cognitive processing pipeline:\n\nStep 1 (Initial ...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T19:05:06.673Z",
+    "relevance": 0.6,
+    "id": "fb0c8606-e4b9-49ca-9043-86ec4db1515e"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Review the codebase in the mcp-cognitive-processor directory. Provide an overview of potential enhan...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T19:47:40.623Z",
+    "relevance": 0.6,
+    "id": "31f1c894-6b53-4267-8291-f02f43a08e7c"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Review the codebase in the mcp-cognitive-processor directory. Provide an overview of potential enhan...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T19:48:29.926Z",
+    "relevance": 0.6,
+    "id": "d067ace9-4859-4f66-b069-9cf91644d643"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Perform a fresh analysis of the codebase in the mcp-cognitive-processor directory, ignoring any prev...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T19:49:39.967Z",
+    "relevance": 0.6,
+    "id": "35e4034a-0a6d-4698-abe3-7fc6040de463"
+  },
+  {
+    "type": "episodic",
+    "content": "User asked: \"Provide an overview of potential enhancements for the codebase in `/Users/justincornelius/Downloads/...\"",
+    "importance": 0.6,
+    "connections": [],
+    "timestamp": "2025-03-20T19:55:57.025Z",
+    "relevance": 0.6,
+    "id": "d3d750ff-af01-4854-8761-259fa37850f8"
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "metrics": {
+    "problem_1742350713449_56aynp3_step1": {
+      "expected": 31,
+      "actual": 645
+    },
+    "problem_1742350713449_56aynp3_step2": {
+      "expected": 86,
+      "actual": 732
+    },
+    "problem_1742350713449_56aynp3_step3": {
+      "expected": 139,
+      "actual": 777
+    },
+    "problem_1742352636846_0vwu4d0_step1": {
+      "expected": 26,
+      "actual": 639
+    },
+    "problem_1742352636846_0vwu4d0_step2": {
+      "expected": 81,
+      "actual": 723
+    },
+    "problem_1742352636846_0vwu4d0_step3": {
+      "expected": 135,
+      "actual": 783
+    },
+    "problem_1742392138947_gtqq454_step1": {
+      "expected": 55,
+      "actual": 700
+    },
+    "problem_1742392138947_gtqq454_step2": {
+      "expected": 111,
+      "actual": 731
+    },
+    "problem_1742392138947_gtqq454_step3": {
+      "expected": 164,
+      "actual": 805
+    },
+    "problem_1742392197618_azefggd_step1": {
+      "expected": 57,
+      "actual": 691
+    },
+    "problem_1742392197618_azefggd_step2": {
+      "expected": 112,
+      "actual": 740
+    },
+    "problem_1742392197618_azefggd_step3": {
+      "expected": 165,
+      "actual": 813
+    }
+  },
+  "modelUsage": {
+    "minimal": {
+      "tokens": 8779,
+      "count": 12
+    }
+  },
+  "lastUpdated": "2025-03-19T13:50:00.865Z"
+}

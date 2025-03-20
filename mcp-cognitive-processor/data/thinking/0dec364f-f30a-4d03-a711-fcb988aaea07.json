@@ -1,0 +1,9 @@
+{
+  "processId": "0dec364f-f30a-4d03-a711-fcb988aaea07",
+  "problem": "Verify that dependency injection and service initialization are working correctly in the MCP codebase.",
+  "model": "error",
+  "steps": [],
+  "duration": 0,
+  "timestamp": "2025-03-19T21:16:45.343Z",
+  "error": "AI service is required"
+}

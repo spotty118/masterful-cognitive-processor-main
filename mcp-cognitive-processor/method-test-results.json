@@ -1,0 +1,480 @@
+{
+  "timestamp": "2025-03-18T21:19:18.651Z",
+  "tests": [
+    {
+      "id": "1",
+      "name": "List (list)",
+      "request": {
+        "jsonrpc": "2.0",
+        "id": "2",
+        "method": "list",
+        "params": {}
+      },
+      "response": {
+        "jsonrpc": "2.0",
+        "id": "2",
+        "error": {
+          "code": -32601,
+          "message": "Method not found"
+        }
+      },
+      "success": false,
+      "timestamp": "2025-03-18T21:19:19.706Z"
+    },
+    {
+      "id": "2",
+      "name": "Call (call)",
+      "request": {
+        "jsonrpc": "2.0",
+        "id": "3",
+        "method": "call",
+        "params": {
+          "name": "generate_with_mcp",
+          "arguments": {
+            "prompt": "Test prompt",
+            "model": "standard"
+          }
+        }
+      },
+      "response": {
+        "jsonrpc": "2.0",
+        "id": "3",
+        "error": {
+          "code": -32601,
+          "message": "Method not found"
+        }
+      },
+      "success": false,
+      "timestamp": "2025-03-18T21:19:20.710Z"
+    },
+    {
+      "id": "3",
+      "name": "List (tools.list)",
+      "request": {
+        "jsonrpc": "2.0",
+        "id": "4",
+        "method": "tools.list",
+        "params": {}
+      },
+      "response": {
+        "jsonrpc": "2.0",
+        "id": "4",
+        "error": {
+          "code": -32601,
+          "message": "Method not found"
+        }
+      },
+      "success": false,
+      "timestamp": "2025-03-18T21:19:21.713Z"
+    },
+    {
+      "id": "4",
+      "name": "Call (tools.call)",
+      "request": {
+        "jsonrpc": "2.0",
+        "id": "5",
+        "method": "tools.call",
+        "params": {
+          "name": "generate_with_mcp",
+          "arguments": {
+            "prompt": "Test prompt",
+            "model": "standard"
+          }
+        }
+      },
+      "response": {
+        "jsonrpc": "2.0",
+        "id": "5",
+        "error": {
+          "code": -32601,
+          "message": "Method not found"
+        }
+      },
+      "success": false,
+      "timestamp": "2025-03-18T21:19:22.715Z"
+    },
+    {
+      "id": "5",
+      "name": "List (mcp.tools.list)",
+      "request": {
+        "jsonrpc": "2.0",
+        "id": "6",
+        "method": "mcp.tools.list",
+        "params": {}
+      },
+      "response": {
+        "jsonrpc": "2.0",
+        "id": "6",
+        "error": {
+          "code": -32601,
+          "message": "Method not found"
+        }
+      },
+      "success": false,
+      "timestamp": "2025-03-18T21:19:23.720Z"
+    },
+    {
+      "id": "6",
+      "name": "Call (mcp.tools.call)",
+      "request": {
+        "jsonrpc": "2.0",
+        "id": "7",
+        "method": "mcp.tools.call",
+        "params": {
+          "name": "generate_with_mcp",
+          "arguments": {
+            "prompt": "Test prompt",
+            "model": "standard"
+          }
+        }
+      },
+      "response": {
+        "jsonrpc": "2.0",
+        "id": "7",
+        "error": {
+          "code": -32601,
+          "message": "Method not found"
+        }
+      },
+      "success": false,
+      "timestamp": "2025-03-18T21:19:24.721Z"
+    },
+    {
+      "id": "7",
+      "name": "List (tools/list)",
+      "request": {
+        "jsonrpc": "2.0",
+        "id": "8",
+        "method": "tools/list",
+        "params": {}
+      },
+      "response": {
+        "result": {
+          "tools": [
+            {
+              "name": "generate_with_mcp",
+              "description": "Generate content using the Masterful Cognitive Processor",
+              "inputSchema": {
+                "type": "object",
+                "properties": {
+                  "prompt": {
+                    "type": "string",
+                    "description": "The prompt to process"
+                  },
+                  "model": {
+                    "type": "string",
+                    "description": "The model to use (optional)"
+                  },
+                  "max_tokens": {
+                    "type": "number",
+                    "description": "Maximum tokens to generate (optional)"
+                  },
+                  "optimize_tokens": {
+                    "type": "boolean",
+                    "description": "Whether to optimize token usage (optional)"
+                  }
+                },
+                "required": [
+                  "prompt"
+                ]
+              }
+            },
+            {
+              "name": "thinking_process",
+              "description": "Execute a step-by-step thinking process",
+              "inputSchema": {
+                "type": "object",
+                "properties": {
+                  "problem": {
+                    "type": "string",
+                    "description": "The problem to solve"
+                  },
+                  "thinking_model": {
+                    "type": "string",
+                    "description": "The thinking model to use (optional)"
+                  },
+                  "include_visualization": {
+                    "type": "boolean",
+                    "description": "Whether to include visualization (optional)"
+                  },
+                  "optimize_tokens": {
+                    "type": "boolean",
+                    "description": "Whether to optimize token usage (optional)"
+                  }
+                },
+                "required": [
+                  "problem"
+                ]
+              }
+            },
+            {
+              "name": "store_memory",
+              "description": "Store a new memory item",
+              "inputSchema": {
+                "type": "object",
+                "properties": {
+                  "type": {
+                    "type": "string",
+                    "description": "The type of memory (working, episodic, semantic, procedural)"
+                  },
+                  "content": {
+                    "type": "string",
+                    "description": "The content of the memory"
+                  },
+                  "importance": {
+                    "type": "number",
+                    "description": "The importance of the memory (0-1)"
+                  },
+                  "connections": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    },
+                    "description": "IDs of connected memory items"
+                  }
+                },
+                "required": [
+                  "type",
+                  "content"
+                ]
+              }
+            },
+            {
+              "name": "retrieve_memory",
+              "description": "Retrieve memory items based on a query",
+              "inputSchema": {
+                "type": "object",
+                "properties": {
+                  "query": {
+                    "type": "string",
+                    "description": "The query to search for"
+                  },
+                  "limit": {
+                    "type": "number",
+                    "description": "Maximum number of items to retrieve (optional)"
+                  }
+                },
+                "required": [
+                  "query"
+                ]
+              }
+            },
+            {
+              "name": "check_cache",
+              "description": "Check if a result is cached",
+              "inputSchema": {
+                "type": "object",
+                "properties": {
+                  "cache_type": {
+                    "type": "string",
+                    "description": "The type of cache to check"
+                  },
+                  "cache_key": {
+                    "type": "string",
+                    "description": "The key to look up in the cache"
+                  }
+                },
+                "required": [
+                  "cache_type",
+                  "cache_key"
+                ]
+              }
+            },
+            {
+              "name": "store_cache",
+              "description": "Store a result in the cache",
+              "inputSchema": {
+                "type": "object",
+                "properties": {
+                  "cache_type": {
+                    "type": "string",
+                    "description": "The type of cache to store in"
+                  },
+                  "cache_key": {
+                    "type": "string",
+                    "description": "The key to store under"
+                  },
+                  "response": {
+                    "type": "string",
+                    "description": "The response to cache"
+                  }
+                },
+                "required": [
+                  "cache_type",
+                  "cache_key",
+                  "response"
+                ]
+              }
+            },
+            {
+              "name": "perform_maintenance",
+              "description": "Perform maintenance on the MCP systems",
+              "inputSchema": {
+                "type": "object",
+                "properties": {
+                  "systems": {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "enum": [
+                        "cache",
+                        "memory",
+                        "thinking",
+                        "optimization",
+                        "all"
+                      ]
+                    },
+                    "description": "The systems to perform maintenance on"
+                  }
+                },
+                "required": [
+                  "systems"
+                ]
+              }
+            },
+            {
+              "name": "get_token_optimization_stats",
+              "description": "Get statistics about token optimization",
+              "inputSchema": {
+                "type": "object",
+                "properties": {},
+                "required": []
+              }
+            },
+            {
+              "name": "update_token_metrics",
+              "description": "Update token metrics with actual token usage",
+              "inputSchema": {
+                "type": "object",
+                "properties": {
+                  "problem_id": {
+                    "type": "string",
+                    "description": "A hash or identifier for the problem"
+                  },
+                  "estimated_tokens": {
+                    "type": "number",
+                    "description": "The estimated token count"
+                  },
+                  "actual_tokens": {
+                    "type": "number",
+                    "description": "The actual token count used"
+                  },
+                  "model": {
+                    "type": "string",
+                    "description": "The thinking model used"
+                  }
+                },
+                "required": [
+                  "problem_id",
+                  "estimated_tokens",
+                  "actual_tokens",
+                  "model"
+                ]
+              }
+            },
+            {
+              "name": "estimate_token_count",
+              "description": "Estimate token count for a given text",
+              "inputSchema": {
+                "type": "object",
+                "properties": {
+                  "text": {
+                    "type": "string",
+                    "description": "The text to estimate tokens for"
+                  },
+                  "model": {
+                    "type": "string",
+                    "description": "The language model to use for estimation (optional)"
+                  }
+                },
+                "required": [
+                  "text"
+                ]
+              }
+            }
+          ]
+        },
+        "jsonrpc": "2.0",
+        "id": "8"
+      },
+      "success": true,
+      "timestamp": "2025-03-18T21:19:25.727Z"
+    },
+    {
+      "id": "8",
+      "name": "Call (tools/call)",
+      "request": {
+        "jsonrpc": "2.0",
+        "id": "9",
+        "method": "tools/call",
+        "params": {
+          "name": "generate_with_mcp",
+          "arguments": {
+            "prompt": "Test prompt",
+            "model": "standard"
+          }
+        }
+      },
+      "response": {
+        "result": {
+          "content": [
+            {
+              "type": "text",
+              "text": "{\n  \"response\": \"{\\\"steps\\\":[{\\\"id\\\":\\\"1\\\",\\\"description\\\":\\\"Problem Analysis\\\",\\\"reasoning\\\":\\\"Problem has 9 main components with 43 key terms. Complexity analysis: medium (3.8/10), with 2 technical terms and 0 logical connectors.\\\",\\\"status\\\":\\\"completed\\\",\\\"tokens\\\":126,\\\"timestamp\\\":\\\"2025-03-18T21:19:26.752Z\\\"},{\\\"id\\\":\\\"2\\\",\\\"description\\\":\\\"Component Identification\\\",\\\"reasoning\\\":\\\"Identified 9 key components: Relevant context from memory:\\\\n- User asked: \\\\\\\"Conduct an in-depth code review of ThinkingEngine, ts for potential improvements, specifically addres, \\\\\\\"\\\\n- User asked: \\\\\\\"Conduct an in-depth code review of ThinkingEngine...\\\",\\\"status\\\":\\\"completed\\\",\\\"tokens\\\":132,\\\"timestamp\\\":\\\"2025-03-18T21:19:26.752Z\\\"},{\\\"id\\\":\\\"3\\\",\\\"description\\\":\\\"Component Categorization\\\",\\\"reasoning\\\":\\\"Categorized components: statements (9)\\\",\\\"status\\\":\\\"completed\\\",\\\"tokens\\\":143,\\\"timestamp\\\":\\\"2025-03-18T21:19:26.753Z\\\"},{\\\"id\\\":\\\"4\\\",\\\"description\\\":\\\"Memory Integration\\\",\\\"reasoning\\\":\\\"Retrieved 5 relevant memories. Key insights: User asked: \\\\\\\"Conduct an in-depth code review of ThinkingEngine; User asked: \\\\\\\"Provide a thorough analysis of the ThinkingEngine; User asked: \\\\\\\"Analyze the codebase in the mcp-cognitive-processor directory to identify potential enhancements wit\\\",\\\"status\\\":\\\"completed\\\",\\\"tokens\\\":47,\\\"timestamp\\\":\\\"2025-03-18T21:19:26.754Z\\\"},{\\\"id\\\":\\\"5\\\",\\\"description\\\":\\\"Solution Synthesis\\\",\\\"reasoning\\\":\\\"Solution synthesized through deep cognitive analysis of 9 components with 5 relevant memories.\\\\n\\\\nComponent analysis: questions (0), statements (9), requirements (0), constraints (0).\\\\n\\\\nKey challenges identified: Ensuring seamless integration between components; Balancing competing requirements and priorities.\\\\n\\\\nDomain-specific insights (technical): Implement a layered architecture to separate concerns and improve maintainability; Use design patterns appropriate for the identified challenges; Consider microservices architecture for better scalability and fault isolation; Implement comprehensive logging and monitoring for operational visibility; Adopt test-driven development to ensure system reliability.\\\\n\\\\nKey insights from memory: User asked: \\\\\\\"Provide a detailed overview of potential enhancements for the codebase in `/Users/justincornelius/Do; User asked: \\\\\\\"Analyze the Masterful Cognitive Processor codebase for potential enhancements; User asked: \\\\\\\"Provide a thorough analysis of the ThinkingEngine.\\\\n\\\\nRecommended approach: Multi-faceted analytical approach synthesizing available information into a coherent solution with practical implementation considerations\\\",\\\"status\\\":\\\"completed\\\",\\\"tokens\\\":199,\\\"timestamp\\\":\\\"2025-03-18T21:19:26.756Z\\\"},{\\\"id\\\":\\\"6\\\",\\\"description\\\":\\\"Solution Evaluation\\\",\\\"reasoning\\\":\\\"Solution quality assessment: 9/10. Excellent solution with comprehensive analysis and domain-specific insights.\\\",\\\"status\\\":\\\"completed\\\",\\\"tokens\\\":12,\\\"timestamp\\\":\\\"2025-03-18T21:19:26.756Z\\\"}],\\\"conclusion\\\":\\\"Based on 6 analysis steps and deep cognitive processing: Solution quality assessment: 9/10. Excellent solution with comprehensive analysis and domain-specific insights.\\\",\\\"confidence\\\":1,\\\"analysis_details\\\":{\\\"key_concepts\\\":[\\\"asked\\\",\\\"cognitive\\\",\\\"thinkingengine\\\",\\\"potential\\\",\\\"codebase\\\"],\\\"complexity_assessment\\\":\\\"Problem has 9 main components with 43 key terms. Complexity analysis: medium (3.8/10), with 2 technical terms and 0 logical connectors.\\\",\\\"domain_classification\\\":\\\"technical\\\",\\\"memory_integration\\\":\\\"Enriched with 5 relevant memory items.\\\",\\\"processing_approach\\\":\\\"Multi-faceted analytical approach synthesizing available information into a coherent solution with practical implementation considerations\\\"}}\",\n  \"model\": \"mcp-processor\",\n  \"token_usage\": {\n    \"prompt\": 126,\n    \"completion\": 622,\n    \"total\": 748\n  },\n  \"optimization\": {\n    \"selected_model\": \"standard\",\n    \"estimated_tokens\": 3,\n    \"optimization_applied\": false,\n    \"token_savings\": 0,\n    \"optimization_strategy\": \"none\",\n    \"concepts\": [],\n    \"domain\": \"general\",\n    \"suggested_changes\": [],\n    \"optimized_prompt\": \"Test prompt\"\n  },\n  \"memory_items_used\": 5,\n  \"cached\": false,\n  \"internal_processing\": true\n}"
+            }
+          ]
+        },
+        "jsonrpc": "2.0",
+        "id": "9"
+      },
+      "success": true,
+      "timestamp": "2025-03-18T21:19:26.760Z"
+    },
+    {
+      "id": "9",
+      "name": "List (mcp/tools/list)",
+      "request": {
+        "jsonrpc": "2.0",
+        "id": "10",
+        "method": "mcp/tools/list",
+        "params": {}
+      },
+      "response": {
+        "jsonrpc": "2.0",
+        "id": "10",
+        "error": {
+          "code": -32601,
+          "message": "Method not found"
+        }
+      },
+      "success": false,
+      "timestamp": "2025-03-18T21:19:27.764Z"
+    },
+    {
+      "id": "10",
+      "name": "Call (mcp/tools/call)",
+      "request": {
+        "jsonrpc": "2.0",
+        "id": "11",
+        "method": "mcp/tools/call",
+        "params": {
+          "name": "generate_with_mcp",
+          "arguments": {
+            "prompt": "Test prompt",
+            "model": "standard"
+          }
+        }
+      },
+      "response": {
+        "jsonrpc": "2.0",
+        "id": "11",
+        "error": {
+          "code": -32601,
+          "message": "Method not found"
+        }
+      },
+      "success": false,
+      "timestamp": "2025-03-18T21:19:28.769Z"
+    }
+  ]
+}

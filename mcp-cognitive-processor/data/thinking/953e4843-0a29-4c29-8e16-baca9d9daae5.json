@@ -1,0 +1,8 @@
+{
+  "processId": "953e4843-0a29-4c29-8e16-baca9d9daae5",
+  "problem": "Analyze the main components and their interactions in the MCP Cognitive Processor codebase at /Users/justincornelius/Downloads/masterful-cognitive-processor-main/mcp-cognitive-processor/src. Consider key classes like ThinkingEngine, their relationships, and current implementation patterns.",
+  "model": "gemini-flash",
+  "steps": [],
+  "duration": 1129,
+  "timestamp": "2025-03-20T18:23:41.727Z"
+}

@@ -1,0 +1,74 @@
+{
+  "processId": "8abb4a6f-a724-4cd8-b1c6-90e084c1a2be",
+  "problem": "What are the key components of a cognitive architecture?",
+  "model": "standard",
+  "steps": [
+    {
+      "id": "step_1",
+      "description": "Analyze problem requirements",
+      "reasoning": "Understanding the core requirements is essential before proceeding with solution design",
+      "tokens": 150,
+      "status": "completed",
+      "timestamp": "2025-03-18T23:10:46.788Z",
+      "confidence": null,
+      "metrics": {
+        "complexityScore": 0.9,
+        "tokenEfficiency": 1
+      }
+    },
+    {
+      "id": "step_2",
+      "description": "Identify key components and relationships",
+      "reasoning": "Breaking down the problem into components helps manage complexity and identify dependencies",
+      "tokens": 180,
+      "status": "completed",
+      "timestamp": "2025-03-18T23:10:46.790Z",
+      "confidence": 0.1,
+      "metrics": {
+        "complexityScore": 0.9,
+        "tokenEfficiency": 0
+      }
+    },
+    {
+      "id": "step_3",
+      "description": "Evaluate potential solution approaches",
+      "reasoning": "Considering multiple approaches ensures we select the most appropriate solution strategy",
+      "tokens": 195,
+      "status": "completed",
+      "timestamp": "2025-03-18T23:10:46.790Z",
+      "confidence": 0.1,
+      "metrics": {
+        "complexityScore": 0.9,
+        "tokenEfficiency": 0
+      }
+    },
+    {
+      "id": "step_4",
+      "description": "Design solution architecture",
+      "reasoning": "Creating a well-structured solution architecture based on the chosen approach",
+      "tokens": 210,
+      "status": "completed",
+      "timestamp": "2025-03-18T23:10:46.790Z",
+      "confidence": 0.1,
+      "metrics": {
+        "complexityScore": 0.9,
+        "tokenEfficiency": 0
+      }
+    },
+    {
+      "id": "step_5",
+      "description": "Implement solution with detailed steps",
+      "reasoning": "Converting the architecture into concrete implementation steps",
+      "tokens": 225,
+      "status": "completed",
+      "timestamp": "2025-03-18T23:10:46.790Z",
+      "confidence": 0.1,
+      "metrics": {
+        "complexityScore": 0.9,
+        "tokenEfficiency": 0
+      }
+    }
+  ],
+  "duration": 3,
+  "timestamp": "2025-03-18T23:10:46.790Z"
+}

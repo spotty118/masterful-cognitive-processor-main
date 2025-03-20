@@ -1,0 +1,9 @@
+{
+  "processId": "b5de4318-3e6d-4613-850d-a2d97f086764",
+  "problem": "Test dependency injection and service usage in MCP",
+  "model": "error",
+  "steps": [],
+  "duration": 0,
+  "timestamp": "2025-03-19T21:19:27.159Z",
+  "error": "AI service is required"
+}

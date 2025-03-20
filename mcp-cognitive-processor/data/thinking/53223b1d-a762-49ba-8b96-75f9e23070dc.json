@@ -1,0 +1,9 @@
+{
+  "processId": "53223b1d-a762-49ba-8b96-75f9e23070dc",
+  "problem": "What is the overall architecture and purpose of the Masterful Cognitive Processor codebase?",
+  "model": "error",
+  "steps": [],
+  "duration": 168,
+  "timestamp": "2025-03-19T14:51:57.979Z",
+  "error": "OpenRouter API Authentication Error: 401 - {\"error\":{\"message\":\"No auth credentials found\",\"code\":401}}"
+}

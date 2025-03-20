@@ -1,0 +1,8 @@
+{
+  "processId": "7eef274a-8f3b-41cd-b14b-f1ad48327d9b",
+  "problem": "Error accessing MCP resource: MCP error -32600: MCP error -32600: Resource not found: mcp://thinking/process/3f3bb6e5-cfe4-4855-b77c-77e6e0e0e39d",
+  "model": "gemini-flash",
+  "steps": [],
+  "duration": 865,
+  "timestamp": "2025-03-20T17:22:04.814Z"
+}
