@@ -52,6 +52,8 @@ npm run dev
 
 ## What technologies are used for this project?
 
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/spotty118/masterful-cognitive-processor-main?utm_source=oss&utm_medium=github&utm_campaign=spotty118%2Fmasterful-cognitive-processor-main&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 This project is built with .
 
 - Vite
